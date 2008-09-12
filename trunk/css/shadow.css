@@ -1,0 +1,7 @@
+
+span.shadow {
+	background-image: url("../shadow/blank.png");
+	background-repeat: no-repeat;
+	display: block;
+	padding: 6px;
+}
